@@ -1,0 +1,83 @@
+TABLE 6.1 data nilai essai klmpk G.xlsx          ZOU000WS.TXT  Dec 16 2024 13:19
+INPUT: 30 PERSON  5 ITEM  REPORTED: 30 PERSON  5 ITEM  5 CATS   MINISTEP 5.8.2.0
+--------------------------------------------------------------------------------
+PERSON: REAL SEP.: .71  REL.: .33 ... ITEM: REAL SEP.: .00  REL.: .00
+ 
+         PERSON STATISTICS:  MISFIT ORDER
+ 
+---------------------------------------------------------------------------------------------------------------
+|ENTRY   TOTAL  TOTAL    JMLE   MODEL|   INFIT  |  OUTFIT  |PTMEASUR-AL|EXACT MATCH|                          |
+|NUMBER  SCORE  COUNT  MEASURE  S.E. |MNSQ  ZSTD|MNSQ  ZSTD|CORR.  EXP.| OBS%  EXP%| PERSON                   |
+|------------------------------------+----------+----------+-----------+-----------+--------------------------|
+|    27     18      5    1.23     .59|1.42   .71|2.34  1.23|A-.50   .23| 60.0  66.3| Shinta Amilia            |
+|    14     16      5     .74     .43|1.67  1.01|1.20   .50|B .64   .32| 40.0  38.4| Muhammad jafri           |
+|     2      4      5    -.79     .40| .98   .18|1.39   .70|C-.12   .37| 20.0  33.3| M Rizkon Haswan Mubarokah|
+|    20     14      5     .43     .37|1.39   .79|1.29   .63|D .40   .38|   .0  18.4| M.Refaldo Saputra        |
+|     4      3      5    -.96     .44|1.16   .45| .80   .11|E .50   .33| 60.0  51.6| dyzan                    |
+|    21     14      5     .43     .37| .87  -.04| .87   .02|e .02   .38|   .0  18.4| Pedirosa                 |
+|    17     19      5    1.70     .84| .57   .11| .52   .06|d .18   .16| 80.0  86.7| Muhammad Putra           |
+|    28     19      5    1.70     .84| .52   .06| .42  -.06|c .34   .16| 80.0  86.7| Naura Putri              |
+|    30     19      5    1.70     .84| .52   .06| .42  -.06|b .34   .16| 80.0  86.7| Muhammad Rehan           |
+|     3      4      5    -.79     .40| .24 -1.54| .23 -1.13|a .95   .37| 40.0  33.3| Annisa Salsabila         |
+|------------------------------------+----------+----------+-----------+-----------+--------------------------|
+| MEAN    15.7    5.0    1.42    1.22| .93   .18| .95   .20|           | 46.0  52.0|                          |
+| P.SD     7.1     .0    1.62     .49| .45   .67| .60   .60|           | 29.7  26.4|                          |
+---------------------------------------------------------------------------------------------------------------
+ 
+TABLE 6.4 data nilai essai klmpk G.xlsx          ZOU000WS.TXT  Dec 16 2024 13:19
+INPUT: 30 PERSON  5 ITEM  REPORTED: 30 PERSON  5 ITEM  5 CATS   MINISTEP 5.8.2.0
+--------------------------------------------------------------------------------
+ 
+MOST MISFITTING RESPONSE STRINGS
+         |ITEM
+OUTMNSQ  |12  PERSON
+      high--
+   2.34 A|2. 27 Shinta Amilia
+   1.20 B|.0 14 Muhammad jafri
+   1.39 C|.2  2 M Rizkon Haswan Mubarokah
+         |--low
+         |12
+ 
+TABLE 6.5 data nilai essai klmpk G.xlsx          ZOU000WS.TXT  Dec 16 2024 13:19
+INPUT: 30 PERSON  5 ITEM  REPORTED: 30 PERSON  5 ITEM  5 CATS   MINISTEP 5.8.2.0
+--------------------------------------------------------------------------------
+ 
+MOST UNEXPECTED RESPONSES
+         |ITEM
+MEASURE  |12  PERSON
+      high--
+   1.23 A|2. 27 Shinta Amilia
+    .74 B|.0 14 Muhammad jafri
+   -.79 C|.2  2 M Rizkon Haswan Mubarokah
+         |--low
+         |12
+ 
+TABLE 6.6 data nilai essai klmpk G.xlsx          ZOU000WS.TXT  Dec 16 2024 13:19
+INPUT: 30 PERSON  5 ITEM  REPORTED: 30 PERSON  5 ITEM  5 CATS   MINISTEP 5.8.2.0
+--------------------------------------------------------------------------------
+ 
+MOST UNEXPECTED RESPONSES
+ 
+----------------------------------------------------------------------------------------------------------
+| DATA |OBSERVED|EXPECTED|RESIDUAL|ST. RES.|MEASDIFF| ITEM  | PERSON | ITEM  | PERSON                    |
+|------+--------+--------+--------+--------+--------+-------+--------+-------+---------------------------|
+|    2 |      2 |   3.79 |  -1.79 |  -3.25 |   1.57 |     1 |     27 | 1     | Shinta Amilia             |
+|    2 |      2 |    .29 |   1.71 |   2.24 |  -1.23 |     2 |      2 | 2     | M Rizkon Haswan Mubarokah |
+|    0 |      0 |   2.67 |  -2.67 |  -2.04 |    .29 |     2 |     14 | 2     | Muhammad jafri            |
+|    3 |      3 |    .92 |   2.08 |   1.68 |   -.62 |     1 |      4 | 1     | dyzan                     |
+|    0 |      0 |   2.08 |  -2.08 |  -1.45 |   -.02 |     2 |     20 | 2     | M.Refaldo Saputra         |
+|    3 |      3 |   3.79 |   -.79 |  -1.44 |   1.58 |     5 |     17 | 5     | Muhammad Putra            |
+|    4 |      4 |   2.08 |   1.92 |   1.34 |   -.02 |     2 |     21 | 2     | Pedirosa                  |
+|    2 |      2 |   3.33 |  -1.33 |  -1.33 |    .78 |     1 |     21 | 1     | Pedirosa                  |
+|    2 |      2 |   3.33 |  -1.33 |  -1.33 |    .78 |     1 |     20 | 1     | M.Refaldo Saputra         |
+|    3 |      3 |   3.76 |   -.76 |  -1.26 |   1.47 |     4 |     30 | 4     | Muhammad Rehan            |
+|    3 |      3 |   3.76 |   -.76 |  -1.26 |   1.47 |     4 |     28 | 4     | Naura Putri               |
+|    4 |      4 |   2.50 |   1.50 |   1.10 |    .20 |     4 |     20 | 4     | M.Refaldo Saputra         |
+|    0 |      0 |   1.44 |  -1.44 |  -1.03 |   -.32 |     3 |      2 | 3     | M Rizkon Haswan Mubarokah |
+----------------------------------------------------------------------------------------------------------
+
+streamlit
+pandas
+joblib
+scikit-learn
+xgboost
